@@ -57,4 +57,4 @@ def logic_gate_proc():
         except ValueError:
             print("please enter a number.")
 
-logic_
+logic_gate_proc()
